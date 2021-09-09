@@ -1,0 +1,3 @@
+rootProject.name='EmotionSDK'
+include ':app'
+include ':core'
